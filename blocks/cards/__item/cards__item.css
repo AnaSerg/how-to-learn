@@ -2,6 +2,7 @@
     margin-top: 60px;
     margin-right: 100px; 
     width: 240px;
+    list-style-type: none;
 }
 
 .cards__item:nth-of-type(3) {
